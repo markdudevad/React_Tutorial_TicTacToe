@@ -1,3 +1,6 @@
+Work on this tutorial completed by Mark Vadasz on 02/27/2019.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
